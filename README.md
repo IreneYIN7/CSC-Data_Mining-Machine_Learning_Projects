@@ -1,2 +1,2 @@
-# hello-world
-tour guide
+# CSC321
+Class assignment
